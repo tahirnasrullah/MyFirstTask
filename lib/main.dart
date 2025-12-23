@@ -29,7 +29,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     var education_list = [
       {
-        'degree': 'Bs Englishist',
+        'degree': 'Bs English',
         'university': 'GIFT University, Gujranwala',
         'image':
             'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5zE0X2Owj9N25lRREwugldPjW0UfeWcEuQ&s',
